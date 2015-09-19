@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 60f3337b6e45d924fa03f92d524fcc27
+timeCreated: 1442156526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: b1
+    100002: b2
+    100004: b3
+    100006: b3_MeshPart0
+    100008: b3_MeshPart1
+    100010: //RootNode
+    100012: cup
+    100014: cup_MeshPart0
+    100016: cup_MeshPart1
+    100018: cup_MeshPart2
+    100020: leaf
+    100022: petal1
+    100024: petal2
+    100026: petal3
+    100028: petal4
+    100030: petal5
+    100032: ruler
+    100034: stem
+    100036: stem_MeshPart0
+    100038: stem_MeshPart1
+    100040: stem_MeshPart2
+    100042: top
+    100044: top_MeshPart0
+    100046: top_MeshPart1
+    100048: trunk
+    400000: b1
+    400002: b2
+    400004: b3
+    400006: b3_MeshPart0
+    400008: b3_MeshPart1
+    400010: //RootNode
+    400012: cup
+    400014: cup_MeshPart0
+    400016: cup_MeshPart1
+    400018: cup_MeshPart2
+    400020: leaf
+    400022: petal1
+    400024: petal2
+    400026: petal3
+    400028: petal4
+    400030: petal5
+    400032: ruler
+    400034: stem
+    400036: stem_MeshPart0
+    400038: stem_MeshPart1
+    400040: stem_MeshPart2
+    400042: top
+    400044: top_MeshPart0
+    400046: top_MeshPart1
+    400048: trunk
+    2300000: b1
+    2300002: b2
+    2300004: b3_MeshPart0
+    2300006: b3_MeshPart1
+    2300008: cup_MeshPart0
+    2300010: cup_MeshPart1
+    2300012: cup_MeshPart2
+    2300014: leaf
+    2300016: petal1
+    2300018: petal2
+    2300020: petal3
+    2300022: petal4
+    2300024: petal5
+    2300026: ruler
+    2300028: stem_MeshPart0
+    2300030: stem_MeshPart1
+    2300032: stem_MeshPart2
+    2300034: top_MeshPart0
+    2300036: top_MeshPart1
+    2300038: trunk
+    3300000: b1
+    3300002: b2
+    3300004: b3_MeshPart0
+    3300006: b3_MeshPart1
+    3300008: cup_MeshPart0
+    3300010: cup_MeshPart1
+    3300012: cup_MeshPart2
+    3300014: leaf
+    3300016: petal1
+    3300018: petal2
+    3300020: petal3
+    3300022: petal4
+    3300024: petal5
+    3300026: ruler
+    3300028: stem_MeshPart0
+    3300030: stem_MeshPart1
+    3300032: stem_MeshPart2
+    3300034: top_MeshPart0
+    3300036: top_MeshPart1
+    3300038: trunk
+    4300000: trunk
+    4300002: b1
+    4300004: b2
+    4300006: b3_MeshPart0
+    4300008: b3_MeshPart1
+    4300010: stem_MeshPart0
+    4300012: stem_MeshPart1
+    4300014: stem_MeshPart2
+    4300016: cup_MeshPart0
+    4300018: cup_MeshPart1
+    4300020: cup_MeshPart2
+    4300022: petal4
+    4300024: petal3
+    4300026: top_MeshPart0
+    4300028: top_MeshPart1
+    4300030: petal2
+    4300032: petal5
+    4300034: leaf
+    4300036: petal1
+    4300038: ruler
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
